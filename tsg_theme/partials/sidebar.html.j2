@@ -1,0 +1,44 @@
+<div class="sidebar-blog">
+    {% if nav|length>1 %}
+        <ul class="sidebar-blog__content categories-list">
+        {% for nav_item in nav %}
+            {% if nav_item.children %}
+                <li class="categories-list__item category {% if nav_item.active%}category--active{% endif %}">{{ nav_item.title }}
+                    <ul>
+                    {% for nav_item in nav_item.children %}
+                        <li class="{% if nav_item.active%}current{% endif %}">
+                            <a href="{{ nav_item.url|url }}">{{ nav_item.title }}</a>
+                        </li>
+                    {% endfor %}
+                    </ul>
+                </li>
+            {% else %}
+                <li class="categories-list__item category {% if nav_item.active%}current{% endif %}">
+                    <a href="{{ nav_item.url|url }}">{{ nav_item.title }}</a>
+                </li>
+            {% endif %}
+        {% endfor %}
+        </ul>
+    {% endif %}
+    {# <h2 class="sidebar-blog__heading">Categories</h2>
+    <ul class="sidebar-blog__content categories-list">
+        <li class="categories-list__item category"><a class="" href="#">How to</a></li>
+        <li class="categories-list__item category"><a class="" href="#">360 Insights blog</a></li>
+        <li class="categories-list__item category category--active">
+        <a class="" href="#">Technical blog</a>
+        <ul>
+            <li><a href="#">Sub item 1</a></li>
+            <li><a href="#">Sub item 2</a></li>
+            <li><a href="#">Sub item 3</a></li>
+            <li><a href="#">Sub item 4</a></li>
+        </ul>
+        </li>
+        <li class="categories-list__item category"><a class="" href="#">Government data</a></li>
+        <li class="categories-list__item category"><a class="" href="#">Innovation is grantmaking</a></li>
+        <li class="categories-list__item category"><a class="" href="#">Understanding civil society</a></li>
+        <li class="categories-list__item category"><a class="" href="#">Follow the funding</a></li>
+        <li class="categories-list__item category"><a class="" href="#">Data Champions</a></li>
+        <li class="categories-list__item category"><a class="" href="#">Events</a></li>
+        <li class="categories-list__item category"><a class="" href="#">360 Update</a></li>
+    </ul> #}
+</div>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ config.site_name }}</title>
+    <link rel="stylesheet" href="https://cdn.threesixtygiving.org/css/main.css" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+  </head>
+  <body>
+    <div class="layout layout--docs">
+      <header class="layout__header">
+        {% include "partials/header.html.j2" %}
+        </header>
+        
+  <div class="layout__body">
+    <aside class="layout__sidebar">
+        {% include "partials/sidebar.html.j2" %}
+    </aside>
+    <div class="layout__content">
+      <main class="layout__content-inner">
+            
+        <div>
+            <div class="prose prose--left">
+                <section class="prose__section">
+                    {{ page.content }}
+                </section>
+            </div>
+        </div>
+      </main>
+      <footer class="layout__footer">
+        {% include "partials/footer.html.j2" %}
+      </footer>
+    </div>
+    <script src="https://public.flourish.studio/resources/embed.js"></script>
+  </body>
+</html>

@@ -1,0 +1,9 @@
+site_name: 360Giving Covid Research
+theme:
+    name: null
+    custom_dir: 'tsg_theme/'
+nav:
+  - Home: index.md
+  - About: about.md
+  - 'About the grants':
+    - 'Size of grants': about-grants/size-of-grants.md
