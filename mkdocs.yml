@@ -7,6 +7,25 @@ theme:
 nav:
   - Home: index.md
   - About: about.md
+  - Methodology: method.md
+  - Overview: overview.md
   - 'About the grants':
-    - 'Size of grants': about-grants/size-of-grants.md
+    - about-grants/over-time.md
+    - about-grants/size-of-grants.md
+    - about-grants/grant-duration.md
+  - 'Grant recipients':
+    - grant-recipients/recipient-types.md
+    - grant-recipients/recipient-size.md
+    - grant-recipients/proportion-of-charities.md
+    - grant-recipients/proportion-of-income.md
+    - grant-recipients/charity-themes.md
+    - grant-recipients/charity-groups.md
+    - grant-recipients/people-supported.md
+  - 'Funding patterns':
+    - funding-patterns/changing-spend.md
+    - funding-patterns/multiple-funders.md
+    - funding-patterns/previous-funding.md
+    - funding-patterns/geography.md
+    - funding-patterns/regrants.md
+  - about-funds.md
 google_analytics: ['G-L5GXFV0X1E', 'covidresearch.threesixtygiving.org']

@@ -3,7 +3,13 @@
         <ul class="sidebar-blog__content categories-list">
         {% for nav_item in nav %}
             {% if nav_item.children %}
-                <li class="categories-list__item category {% if nav_item.active%}category--active{% endif %}">{{ nav_item.title }}
+                <li class="categories-list__item category {% if nav_item.active%}category--active sidebar-list--expanded{% endif %}">
+                    <a href="#" class="sidebar-list__trigger sidebar-expand-trigger" aria-haspopup="true">
+                        <svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M13.5715 2L7.73867 7.66956L2 2.0128" stroke="#153634" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square" stroke-linejoin="round"/>
+                        </svg>
+                    </a>
+                    <a class="sidebar-expand-trigger" aria-haspopup="true" href="#">{{ nav_item.title }}</a>
                     <ul>
                     {% for nav_item in nav_item.children %}
                         <li class="{% if nav_item.active%}current{% endif %}">
@@ -20,25 +26,4 @@
         {% endfor %}
         </ul>
     {% endif %}
-    {# <h2 class="sidebar-blog__heading">Categories</h2>
-    <ul class="sidebar-blog__content categories-list">
-        <li class="categories-list__item category"><a class="" href="#">How to</a></li>
-        <li class="categories-list__item category"><a class="" href="#">360 Insights blog</a></li>
-        <li class="categories-list__item category category--active">
-        <a class="" href="#">Technical blog</a>
-        <ul>
-            <li><a href="#">Sub item 1</a></li>
-            <li><a href="#">Sub item 2</a></li>
-            <li><a href="#">Sub item 3</a></li>
-            <li><a href="#">Sub item 4</a></li>
-        </ul>
-        </li>
-        <li class="categories-list__item category"><a class="" href="#">Government data</a></li>
-        <li class="categories-list__item category"><a class="" href="#">Innovation is grantmaking</a></li>
-        <li class="categories-list__item category"><a class="" href="#">Understanding civil society</a></li>
-        <li class="categories-list__item category"><a class="" href="#">Follow the funding</a></li>
-        <li class="categories-list__item category"><a class="" href="#">Data Champions</a></li>
-        <li class="categories-list__item category"><a class="" href="#">Events</a></li>
-        <li class="categories-list__item category"><a class="" href="#">360 Update</a></li>
-    </ul> #}
 </div>
