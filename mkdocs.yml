@@ -1,4 +1,6 @@
 site_name: 360Giving Covid Research
+site_url: https://covidresearch.threesixtygiving.org
+repo_url: https://github.com/ThreeSixtyGiving/covid-research
 theme:
     name: null
     custom_dir: 'tsg_theme/'
