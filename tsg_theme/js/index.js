@@ -24,3 +24,9 @@ document.querySelectorAll('.sidebar-expand-trigger').forEach(function (el) {
         }
     };
 });
+
+/* add correct classes to tables */
+document.querySelectorAll('.prose table').forEach(function (el) {
+    el.classList.add('table');
+    el.classList.add('table--zebra');
+});
