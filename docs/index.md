@@ -1,22 +1,23 @@
-# Introduction
+# UK Covid relief grants: data analysis
 
-## Coronavirus relief grants
+This report, by [360Giving](https://www.threesixtygiving.org/), uses data published by funders about the grants they made between March 2020 and October 2021 during the Coronavirus pandemic to understand how they and wider civil society responded during that time.
 
-The 2020 Coronavirus pandemic provided a unique challenge to UK charities and the people and communities they benefit. Charities needed to meet the massive demand and need for their services, particularly from their most vulnerable users, whilst simultaneously having to stop many of their in-person services and fundraising activities to keep their staff, volunteers and service users safe.
+Explore the findings using the menu on this page. You can view an **[overview of the findings](overview.md)**, information on **[why we did the research](about.md)** and a description of the **[method used](method.md)**. The report looks at three main areas:
 
-Grant-making funders recognised the scale and urgency of this emergency, and responded by designing and deploying new grant programmes, and adapting existing programmes. These programmes aimed both to:
+ - **[Characteristics of the grants themselves](about-grants/over-time.md)**: how they changed over time, how much they were for and how long they were.
+ - **[The grant recipients](grant-recipients/recipient-types.md)**: which types of organisations were funded, and which parts of civil society were funded.
+ - **[Patterns of funding](funding-patterns/changing-spend.md)**: whether funders changed how they fund, and whether organisations had previously received funding.   
 
-Help organisations meet the increased and unique demands created by the pandemic
-Help organisations ensure their own survival given anticipated drops in other funding sources
+<div class="flourish-embed flourish-chart" data-src="visualisation/7924816"></div>
 
-360Giving helped this response by supporting grantmakers to publish data about the grants they had made. We also created the Covid-19 Grants Tracker which aggregated the published grants data in a single tool, and enabled collaboration and intelligence sharing between grantmakers.
+As well as the analysis presented here, you can dig into more detail using the appendices and 360Giving's other tools:
 
-## About 360Giving
+- **[Appendix I](about-funds.md)**: Descriptions of the main funds included in the Analysis
+- **[Appendix II](all-funds.md)**: A list of all funds included
+- **[Appendix III](download.md)**: Download the data used in the report
 
-Our mission is to help UK funders publish open, standardised grants data, and empower people to use it to improve charitable giving.
+360Giving tools:
 
-When funders publish information on who, where and what they fund in the 360Giving Data Standard it means they are sharing it in a way that others can access and use for free. Because the data is standardised, it can be looked at and analysed all together, helping us to see and understand grantmaking across the UK. Having this information means funding can be more informed and effective.
-
-We support people to publish their data in the 360Giving Data Standard. We also help people to access and use the data, and have created tools to make it easy to explore, download and visualise the data.
-
-You can find out more about 360Giving on our website, or search and explore published grants data using GrantNav and 360Insights.
+- **[COVID-19 Grants Tracker](https://covidtracker.threesixtygiving.org/)**. An interactive dashboard using data published by grantmakers
+- **[GrantNav](https://grantnav.threesixtygiving.org/)**. A search-engine for grants data. Explore and download in detail on where and how much funding goes across billions of pounds of grants.
+- **[360Insights]()**. A tool to combine and visualise 360Giving and charity data to understand funders better. You can explore funding across different areas – from grant dates to types of recipients.
