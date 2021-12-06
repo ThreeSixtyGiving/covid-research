@@ -21,3 +21,5 @@ As well as the analysis presented here, you can dig into more detail using the a
 - **[COVID-19 Grants Tracker](https://covidtracker.threesixtygiving.org/)**. An interactive dashboard using data published by grantmakers
 - **[GrantNav](https://grantnav.threesixtygiving.org/)**. A search-engine for grants data. Explore and download in detail on where and how much funding goes across billions of pounds of grants.
 - **[360Insights]()**. A tool to combine and visualise 360Giving and charity data to understand funders better. You can explore funding across different areas – from grant dates to types of recipients.
+
+[Follow 360Giving on Twitter](https://twitter.com/360Giving)
