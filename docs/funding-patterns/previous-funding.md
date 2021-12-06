@@ -8,7 +8,7 @@ In order to look at whether grant recipients had previously received grant fundi
 - The funder has published some grants data relating to their covid grantmaking
 - The recipient was a registered charity
 
-Using these criteria results in grants from 103 funders, down from 170 in the initial dataset. Looking at covid grants from these funders, around 35% of grant recipients had previously received funding from the same funder, while a further 39% had received funding from other funders in the same dataset. This left 26% of grant recipients that had not previously appeared in the dataset (although they may have received funding from other funders not included in the dataset).
+Using these criteria results in grants from 103 funders, down from 174 in the initial dataset. Looking at Covid grants from these funders, around 35% of grant recipients had previously received funding from the same funder, while a further 39% had received funding from other funders in the same dataset. This left 26% of grant recipients that had not previously appeared in the dataset (although they may have received funding from other funders not included).
 
 The chart shows how this varied between the funds included in the report.
 

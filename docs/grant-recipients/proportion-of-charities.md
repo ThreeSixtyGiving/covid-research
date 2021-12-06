@@ -2,7 +2,7 @@
 
 **One in ten UK charities received a grant**
 
-Based on 160,000 active registered charities throughout the UK, one in ten charities received a grant from one of the covid relief funds analysed here.
+Based on 160,000 active registered charities throughout the UK, one in ten charities received a grant from one of the Covid relief funds analysed here.
 
 The charities that received funding represent around 25% of the total charity income in the UK, and the grants they received were equivalent to 1.2% of the total latest income of all charities (and equivalent to 4.7% of the latest income of charities that received grants).
 

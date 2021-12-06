@@ -8,6 +8,6 @@ Charities are assigned one or more tags based on the keywords that appear in the
 
 The list to the right shows the 20 tags where the highest proportion of charities received a grant. It shows some of the areas that funding was most successful in reaching.
 
-It’s important to note that in some cases charities can be in more than one tag, and the same charity may appear more than once in this list. Tags are only included if there are more than 200 charities in them.
+It's important to note that in some cases charities can be in more than one tag, and the same charity may appear more than once in this list. Tags are only included if there are more than 200 charities in them.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7924859"></div>

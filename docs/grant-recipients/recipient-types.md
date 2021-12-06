@@ -2,7 +2,7 @@
 
 **The majority of grants went to charities**
 
-The type of organisation is known for 56,000 grants, representing 85% of total 66,000 grants.
+The type of organisation is known for 56,000 grants, representing 85% of the 66,000 grants analysed.
 
 For the 10,000 grants where the recipient type is unknown, this is either because the data did not include an identifier for the organisation (like a charity or company number) or because the organisation is unregistered (for example a small community group).
 

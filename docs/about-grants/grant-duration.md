@@ -14,9 +14,9 @@ Longer grants were also more likely to be larger. The median size of a grant for
 
 ## Grant duration by fund
 
-**NLCF offered longer grants**
+**The National Lottery Community Fund (NLCF) offered longer grants**
 
-Grant duration also varied between the available funds. 
+Grant duration also varied between the available funds, with the majority being short-term. 
 
 The National Lottery Community Fund was the only funder to offer significant amounts of funding for longer than six months.
 

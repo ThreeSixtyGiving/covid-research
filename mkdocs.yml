@@ -1,4 +1,4 @@
-site_name: 360Giving Covid Research
+site_name: 'UK Covid relief grants: data analysis'
 site_url: https://covidresearch.threesixtygiving.org
 repo_url: https://github.com/ThreeSixtyGiving/covid-research
 theme:
@@ -7,6 +7,7 @@ theme:
 nav:
   - Home: index.md
   - About this report: about.md
+  - Key findings: key-findings.md
   - Overview: overview.md
   - 'About the grants':
     - about-grants/over-time.md
@@ -26,6 +27,7 @@ nav:
     - funding-patterns/previous-funding.md
     - funding-patterns/geography.md
     - funding-patterns/regrants.md
+  - Conclusion: conclusion.md
   - Methodology: method.md
   - 'Appendices':
     - about-funds.md
