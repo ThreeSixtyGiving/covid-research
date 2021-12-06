@@ -43,6 +43,18 @@
         </div>
       </main>
       <footer class="layout__footer">
+        {% if page.previous_page or page.next_page %}
+        <div class="prose prose--left spacer-4">
+          <nav class="prose__section">
+          {% if page.previous_page %}
+          <a class="button button--teal" href="{{ page.previous_page.abs_url }}">&lt; {{ page.previous_page.title }}</a>
+          {% endif %}
+          {% if page.next_page %}
+          <a class="button button--teal" href="{{ page.next_page.abs_url }}">{{ page.next_page.title }} &gt;</a>
+          {% endif %}
+          </nav>
+        </div>
+        {% endif %}
         {% include "partials/footer.html.j2" %}
       </footer>
     </div>

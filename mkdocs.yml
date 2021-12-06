@@ -27,7 +27,8 @@ nav:
     - funding-patterns/geography.md
     - funding-patterns/regrants.md
   - Methodology: method.md
-  - about-funds.md
-  - all-funds.md
-  - download.md
+  - 'Appendices':
+    - about-funds.md
+    - all-funds.md
+    - download.md
 google_analytics: ['G-L5GXFV0X1E', 'covidresearch.threesixtygiving.org']
