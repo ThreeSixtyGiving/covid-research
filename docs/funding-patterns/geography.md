@@ -6,7 +6,7 @@ Looking at how these grants vary across countries, regions and smaller areas is 
 
 Because not all funders publish data, there are gaps in geographic coverage of the data. For example, not every Community Foundation publishes data which can produce skews in the data at a local level.
 
-Geographic data does not always indicate where the grant took place. In the 360Giving Data Standard you can include both the location of the recipient organisation or the beneficiaries of the grant. Both of these fields are optional, therefore data is incomplete.
+Geographic data does not always indicate where the grant took place. In the 360Giving Data Standard you can include both the location of the recipient organisation and the beneficiaries of the grant. But both of these fields are optional, therefore data is incomplete.
 
 For example, national charities typically have a main or registered office in London, but may deliver services across the country. Without knowing the full extent of where programmes are happening, London will be overrepresented in the data as often only the location of the registered office is recorded by funders. 
 

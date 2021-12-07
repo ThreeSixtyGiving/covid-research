@@ -16,7 +16,7 @@ Grant amount size varies by fund. The Culture Recovery Fund (CRF) and Culture Re
 
 40% of CRF grants and 30% of CRFH grants were for £100,000 or more, the largest proportion of any of the funds included. The CRF grants were generally aimed at supporting (sometimes very large) cultural institutions that were unable to open and needed funding to ensure their existence.
 
-Some funders awarded smaller amounts, based on enabling recipients to carry on operating and providing services to their communities. 93% of Sport England grants were for less that £10,000, as were 90% of National Emergencies Trust and Community Foundation grants, and 87% of National Lottery Community Fund grants.
+Some funders awarded smaller amounts, based on enabling recipients to carry on operating and providing services to their communities. 93% of Sport England grants were for less than £10,000, as were 90% of National Emergencies Trust and Community Foundation grants, and 87% of National Lottery Community Fund grants.
 
 The mean grant amount represents the average of all the amounts, while the median represents the amount halfway along the distribution: 50% of grants were for less than the median, and 50% were for more.
 

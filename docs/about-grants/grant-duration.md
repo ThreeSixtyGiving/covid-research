@@ -2,7 +2,7 @@
 
 **Most grants were for six months or less**
 
-Grant duration is an optional field in the 360Giving data standard, and so was not included by all publishers in the dataset. It is only available just less than half (44%) of the grants in the dataset.
+Grant duration is an optional field in the 360Giving Data Standard, and so was not included by all publishers in the dataset. It is only available just less than half (44%) of the grants in the dataset.
 
 Bearing those gaps in mind, the grants that did include a grant duration show that they were generally for short durations - as might be expected given the emergency nature of the funding and the uncertainty about the length of time that charities would need funding for. 
 

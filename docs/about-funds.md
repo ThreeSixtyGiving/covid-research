@@ -13,7 +13,7 @@ Of the £750m announced, this report includes details of over £500m. The larges
 
 This funding does overlap with other funds where it was passed through other funders such as the National Emergencies Trust or devolved administrations. Where possible duplicate records have been removed from the dataset.
 
-## Culture recovery fund
+## Culture Recovery Fund
 
 The Government also made £1.57 billion available as part of the CRF to support cultural organisations that had to close their doors during the pandemic. Not all of this funding has yet been distributed and there are ongoing funds still open, as well as distribution through social investment and loans that are not reflected in the available data.
 
@@ -21,7 +21,7 @@ Around £873m of this funding is included in this report, of which £750m was di
 
 Neither DCMS, Arts Council England nor the National Lottery Heritage Fund have made data on the CRF available using the 360Giving Data Standard. To include this data in the report, the data they have published has been transformed into the 360Giving format. In some cases this involved adding additional information that has not been published - such as charity and company numbers for organisations receiving the funding.
 
-## National Lottery Funding
+## National Lottery funding
 
 As well as being distributors for central Government funding, the National Lottery distributors did make grants using their existing funds. 
 

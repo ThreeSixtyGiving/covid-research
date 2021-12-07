@@ -4,7 +4,7 @@ The figures in this report show the depth and breadth of Covid relief and recove
 
 The report shows that that the majority of Covid relief and recovery grants were classed as small grants and were more likely to go to medium-sized registered charities.
 
-There was significant overlap between funders: 38% of registered charities received a grant from more than one funder, with 17% receiving funding from 3 three more funders. But funders also supported parts of the sector they had not reached before, as 26% of recipients had not previously received funding.
+There was significant overlap between funders: 38% of registered charities received a grant from more than one funder, with 17% receiving funding from three or more funders. But funders also supported parts of the sector they had not reached before, as 26% of recipients had not previously received funding.
 
 There are some indications that efforts to address gaps in funding for communities disproportionately affected by the pandemic did make a difference, with a set of these organisations who are registered being more likely to have received funding.
 
@@ -22,7 +22,7 @@ If you'd like to find out more about the UK Covid relief and recovery grants dat
 With thanks to 360Giving funders who have supported 360Giving and this work:
 
 - Esmée Fairbairn Foundation
-- National Lottery community Fund
+- National Lottery Community Fund
 - Indigo Trust
 - Paul Hamlyn Foundation
 - Tudor Trust

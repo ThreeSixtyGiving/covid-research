@@ -4,7 +4,7 @@
 
 Going by the grant award date (which may not reflect when organisations received the grant money or started the activity) the month with the largest number of grants awarded was June 2020, with over 11,000 grants made.
 
-42% of the grants made, and 19% of the total grant amount, was made on or before June 2020.
+42% of the grants made, and 19% of the total grant amount, were made on or before June 2020.
 
 It's important to note that some data on the most recent grants made is not yet available, especially data on grants made since April 2021.
 

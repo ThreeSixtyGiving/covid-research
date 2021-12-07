@@ -29,7 +29,7 @@ As well as the analysis presented here, you can dig into more detail using the a
 With thanks to 360Giving funders who have supported 360Giving and this work:
 
 - Esmée Fairbairn Foundation
-- National Lottery community Fund
+- National Lottery Community Fund
 - Indigo Trust
 - Paul Hamlyn Foundation
 - Tudor Trust
