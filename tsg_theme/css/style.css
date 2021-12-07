@@ -59,6 +59,10 @@
     display: block;
 }
 
+.categories-list__item.level-2>a {
+    font-weight: inherit;
+}
+
 .categories-list__item.category--active.level-2>a, .categories-list__item.level-1>a {
     font-weight: bold;
 }

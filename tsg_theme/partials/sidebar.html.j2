@@ -3,7 +3,7 @@
         <ul class="sidebar-blog__content categories-list">
         {% for nav_item in nav %}
             {% if nav_item.children %}
-                <li class="categories-list__item category {% if nav_item.active%}category--active sidebar-list--expanded{% endif %}">
+                <li class="categories-list__item category level-1 {% if nav_item.active%}category--active sidebar-list--expanded{% endif %}">
                     <a href="#" class="sidebar-list__trigger sidebar-expand-trigger" aria-haspopup="true">
                         <svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M13.5715 2L7.73867 7.66956L2 2.0128" stroke="#153634" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square" stroke-linejoin="round"/>
@@ -11,15 +11,15 @@
                     </a>
                     <a class="sidebar-expand-trigger" aria-haspopup="true" href="#">{{ nav_item.title }}</a>
                     <ul>
-                    {% for nav_item in nav_item.children %}
-                        <li class="{% if nav_item.active%}current{% endif %}">
-                            <a href="{{ nav_item.url|url }}">{{ nav_item.title }}</a>
+                    {% for sub_nav_item in nav_item.children %}
+                        <li class="categories-list__item level-2 {% if sub_nav_item.active%}current category--active{% endif %}">
+                            <a href="{{ sub_nav_item.url|url }}">{{ sub_nav_item.title }}</a>
                         </li>
                     {% endfor %}
                     </ul>
                 </li>
             {% else %}
-                <li class="categories-list__item category {% if nav_item.active%}current{% endif %}">
+                <li class="categories-list__item category level-1 {% if nav_item.active%}current category--active {% endif %}">
                     <a href="{{ nav_item.url|url }}">{{ nav_item.title }}</a>
                 </li>
             {% endif %}
