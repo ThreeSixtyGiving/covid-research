@@ -1,4 +1,4 @@
-# UK Covid relief grants: data analysis
+# UK Covid relief and recovery grants: data analysis
 
 This report, by [360Giving](https://www.threesixtygiving.org/), uses data published by funders about the grants they made between March 2020 and October 2021 during the Coronavirus pandemic to understand how they and wider civil society responded during that time.
 
@@ -25,3 +25,14 @@ As well as the analysis presented here, you can dig into more detail using the a
 - **[360Insights]()**. A tool to combine and visualise 360Giving and charity data to understand funders better. You can explore funding across different areas – from grant dates to types of recipients.
 
 [Follow 360Giving on Twitter](https://twitter.com/360Giving)
+
+With thanks to 360Giving funders who have supported 360Giving and this work:
+
+- Esmée Fairbairn Foundation
+- National Lottery community Fund
+- Indigo Trust
+- Paul Hamlyn Foundation
+- Tudor Trust
+- Pears Foundation
+
+And to the over 200 funders that share their data in the 360Giving Data Standard

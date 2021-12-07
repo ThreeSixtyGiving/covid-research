@@ -24,7 +24,7 @@ We believe that by sharing the data we have collected, what worked - and crucial
 
 ## Covid relief and recovery grants
 
-he 2020 Coronavirus pandemic provided a unique challenge to UK charities and the people and communities they serve. Charities needed to meet the massive demand and need for their services, particularly from their most vulnerable users. Yet simultaneously they had to completely stop many of their in-person services and fundraising activities to keep their staff, volunteers and service users safe.
+The 2020 Coronavirus pandemic provided a unique challenge to UK charities and the people and communities they serve. Charities needed to meet the massive demand and need for their services, particularly from their most vulnerable users. Yet simultaneously they had to completely stop many of their in-person services and fundraising activities to keep their staff, volunteers and service users safe.
 
 Grantmakers recognised the scale and urgency of this emergency, and responded by designing and deploying new grant programmes, as well as adapting existing grants and programmes. These programmes aimed both to:
 

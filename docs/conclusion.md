@@ -18,3 +18,14 @@ The data paints a picture of the landscape of grants for Covid relief and recove
 - Use and analyse the data that they and others publish, to ensure they make decisions backed by robust evidence.
 
 If you'd like to find out more about the UK Covid relief and recovery grants data analysis, do get in touch with the [360Giving team](mailto:info@threesixtygiving.org), or book an [Office Hour](https://www.threesixtygiving.org/support/officehours/) with us.
+
+With thanks to 360Giving funders who have supported 360Giving and this work:
+
+- Esmée Fairbairn Foundation
+- National Lottery community Fund
+- Indigo Trust
+- Paul Hamlyn Foundation
+- Tudor Trust
+- Pears Foundation
+
+And to the over 200 funders that share their data in the 360Giving Data Standard
