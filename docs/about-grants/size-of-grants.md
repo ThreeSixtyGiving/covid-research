@@ -6,7 +6,7 @@
 
 Only 148 grants out of the 65,000 grants in the dataset were for more than £1 million, although these grants represent 20% of the amount given. The larger grants were mainly given through the Culture Recovery Fund.
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/7855665"></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/7924832"></div>
 
 ## Size of grants by fund
 
