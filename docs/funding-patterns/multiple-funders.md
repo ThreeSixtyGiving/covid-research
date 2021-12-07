@@ -2,7 +2,7 @@
 
 **38% of recipients received a grant from more than one funder**
 
-Around half of all registered charities (48%) received more than one grant in the dataset, including 26% that received three or more grants.
+Around half of all registered charities that received a grant (48%) received more than one grant in the dataset, including 26% that received three or more grants.
 
 38% of charity recipients received grants from more than one funder in the dataset. This includes 17% which received grants from three or more funders.
 
