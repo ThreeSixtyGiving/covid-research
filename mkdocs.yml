@@ -34,5 +34,4 @@ nav:
     - all-funds.md
     - download.md
   - 'Report [PDF]': data/covid_grants_research.pdf
-# google_analytics: ['G-L5GXFV0X1E', 'covidresearch.threesixtygiving.org']
-matomo: 123456
+matomo: 30
